@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biotechalok.github.io/Dr-ALOK-PATEL/sitemap.xml

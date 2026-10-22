@@ -1,0 +1,10 @@
+SEO setup for Dr Alok Kumar Patel
+
+1. Upload ALL files from this folder to the ROOT of your existing GitHub repository. Do not upload the ZIP itself.
+2. Commit changes and confirm GitHub Pages deployment in Actions.
+3. Check that https://biotechalok.github.io/Dr-ALOK-PATEL/sitemap.xml and https://biotechalok.github.io/Dr-ALOK-PATEL/robots.txt load.
+4. In Google Search Console, add URL-prefix property https://biotechalok.github.io/Dr-ALOK-PATEL/ and complete ownership verification using the method Google provides.
+5. Submit sitemap.xml under Sitemaps, then use URL Inspection to request indexing of https://biotechalok.github.io/Dr-ALOK-PATEL/
+6. Indexing is not guaranteed and can take time.
+
+Do not replace any Google verification token with a placeholder. Add the actual token Google provides if you use HTML-tag verification.
